@@ -1,13 +1,18 @@
 How to install Speechify: Complete Installation Guide
 ==============================================
 
-Introduction
-============
-
 Speechify is an AI-powered text-to-speech application that converts
 written text into natural-sounding audio. It allows users to listen to
 documents, PDFs, web pages, emails, books, and other digital content
 instead of reading manually.
+
+
+.. image:: https://img.shields.io/badge/Install%20Now-orange?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
+   :align: center
+   :target: https://softwareinstaller.net/
+   :alt: Install Now Button
+
 
 Installing Speechify is a simple process that depends on the device you
 are using. The application is available for multiple platforms, including
